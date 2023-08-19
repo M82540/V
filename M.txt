@@ -1,4 +1,4 @@
-okvless://14bda692-3e41-4df0-a04b-ae2225760e7b@[::ffff:681f:1009]:80?path=%2Fbackup&security=none&encryption=none&host=title.eitaa.mom&type=ws#%40V2ray1_Ng
+vless://14bda692-3e41-4df0-a04b-ae2225760e7b@[::ffff:681f:1009]:80?path=%2Fbackup&security=none&encryption=none&host=title.eitaa.mom&type=ws#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdDFCYkxnRkFsQjB4ckY5MUFOQVVK@51.141.109.40:32470#%40V2ray1_Ng
 vless://224b2193-2080-412f-98e9-993614c8b946@95.217.243.35:27871?security=reality&encryption=none&pbk=raNgN8O2SCwwmLwT1wa1HBe-245a-TadAROMU34DdUk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5388e8c0#%40V2ray1_Ng
 vless://14bda692-3e41-4df0-a04b-ae2225760e7b@104.31.16.9:80?path=%2Fbackup&security=none&encryption=none&host=title.eitaa.mom&type=ws#%40V2ray1_Ng
